@@ -49,8 +49,8 @@
 <img src="assets/h-activity.svg" alt="04 · Activity" width="100%" />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DeanJ87&show_icons=true&hide_border=true&bg_color=07090e&title_color=f2a274&icon_color=6ea8ff&text_color=c9d1d9&rank_icon=github&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanJ87&layout=compact&hide_border=true&bg_color=07090e&title_color=f2a274&text_color=c9d1d9&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-red-six-ozz0tb5mf4.vercel.app/api?username=DeanJ87&show_icons=true&hide_border=true&bg_color=07090e&title_color=f2a274&icon_color=6ea8ff&text_color=c9d1d9&rank_icon=github&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-red-six-ozz0tb5mf4.vercel.app/api/top-langs/?username=DeanJ87&layout=compact&hide_border=true&bg_color=07090e&title_color=f2a274&text_color=c9d1d9&langs_count=6" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DeanJ87&hide_border=true&background=07090e&ring=6ea8ff&fire=f2a274&currStreakLabel=f2a274&sideLabels=9aa4b2&dates=9aa4b2&currStreakNum=e4e9f1&sideNums=e4e9f1&stroke=1c2230" alt="Contribution streak" />
